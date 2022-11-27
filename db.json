@@ -1,8 +1,6 @@
 {
   "paycard1": [
-    { "id": 1, "cardnumber": "7019-4889-5501-4231", "balance": "10000" },
-    { "id": 2, "cardnumber": "6980-7001-5563-4089", "balance": "15000" },
-    { "id": 3, "cardnumber": "6819-5619-7287-4123", "balance": "30000" }
+    { "id": 1, "cardnumber": "7019-4889-5501-4231", "balance": "10000" }
   ],
   "paycard2": [
     { "id": 1, "cardnumber": "6980-7001-5563-4089", "balance": "15000" }
